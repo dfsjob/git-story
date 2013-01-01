@@ -1,0 +1,13 @@
+1 set up git
+	I can set up git follow https://help.github.com/articles/set-up-git in Cent OS.
+
+2 creat a repository
+	https://help.github.com/articles/create-a-repo
+	note: before step3, you should execute the command : git config --global http.sslVerify false. If not execute, may raise an "SSL certificate problem, verify that the CA cert is OK." error 
+
+3 fork
+	https://help.github.com/articles/fork-a-repo
+
+4 social
+	https://help.github.com/articles/be-social
+
