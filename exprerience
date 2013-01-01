@@ -7,6 +7,7 @@
 
 3 fork
 	https://help.github.com/articles/fork-a-repo
+	note: git remote add upstream originalURL and git fetch upstream, if you want to new the update of the original code you forked from timely.
 
 4 social
 	https://help.github.com/articles/be-social
